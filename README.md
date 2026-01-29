@@ -30,5 +30,4 @@ booking activity, and property distribution across neighborhoods.
 ## Files
 - `powerbi/` – Power BI dashboard file
 - `sql/` – SQL scripts for data preparation
-- `data/` – Dataset (or sample)
 - `screenshots/` – Dashboard images
